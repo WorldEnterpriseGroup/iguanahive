@@ -37,6 +37,7 @@ nav a,
 .contact_form input[type=text],
 .contact_form input[type=password],
 .contact_form input[type=email],
+.contact_form input[type=tel],
 .contact_form input[type=date],
 .contact_form textarea {
 	border-bottom: 1px solid rgba(0, 0, 0, .4);

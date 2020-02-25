@@ -783,25 +783,42 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7 contact_form_container contact_anim1" >
-						<h3>Contact Us</h3>
-						<p>Contact Us using contact form below. Form is fully working and very easy to customise. </p>
+						<h3>Get in Touch</h3>
+						<p>Contact Us using the form below.</p>
 
 						<!-- Contact Form -->
-						<form action="php/contactform.php" id="contact-form" method="post">
+						<form action="https://prod-20.eastus.logic.azure.com:443/workflows/a8bed9230a7445338ffbbecaa103ec67/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=tz8jPn70VwbD7XM6aZw6T2gNB_sxAutBWp5I-hKv6cA" id="contact-form" method="post">
 							<div class="contact_form">
-								<div class="input-field">
-					  				<input id="first_name" type="email" name="contact-name">
-					  				<label for="first_name">Your Name</label>
+								<div class="input-field col-md-6">
+					  				<input id="firstname" type="text" name="firstname">
+					  				<label for="firstname">First Name</label>
+								</div>
+								<div class="input-field col-md-6">
+									<input id="lastname" type="text" name="lastname">
+									<label for="lastname">Last Name</label>
+								</div>
+								<div class="input-field col-md-6">
+									<input id="email" type="email" name="email">
+									<label for="email">Email Address</label>
+								</div>
+					  			<div class="input-field col-md-6">
+					  				<input id="tel" type="tel" name="tel">
+					  				<label for="tel">Phone Number</label>
 					  			</div>
-					  			<div class="input-field">
-					  				<input id="contact_email" type="email" name="contact-email">
-					  				<label for="contact_email">Email Address</label>
-					  			</div>
-					  			<div class="input-field">
-						  			<textarea class="materialize-textarea" name="contact-message"></textarea>
+					  			<div class="input-field col-md-12">
+						  			<textarea class="materialize-textarea" name="information"></textarea>
 						  			<label>Message</label>
 						  		</div>
-				  			</div>	
+							  </div>	
+							  <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+                                <input type="text" name="_gotcha" style="display:none" />
+								<input type="hidden" name="topic" value="Inquiry">
+								<input type="hidden" name="interest" value="Iguana Hive">
+                                <input type="hidden" name="owner" value="3d59947d-4991-e911-a95b-000d3a34ec54">
+                                <input type="hidden" name="website" value="https://iguanahive.com">
+                                <input type="hidden" name="campaign" value="Iguana Hive Website">
+								<input type="text" style="display:none" name="test" value="off">
+								
 				  			<button class="btn waves-effect waves-light" type="submit" name="action">Send</button>
 						</form>
 						<!-- //Contact Form -->
