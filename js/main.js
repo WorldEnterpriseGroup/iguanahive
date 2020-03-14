@@ -122,7 +122,7 @@ var App = { init: function() { App.HomepageHeight();
     
     // Elements Animation
     Elements_animation: function() {
-		$('#more_info').waypoint(function() {
+		$('#overview').waypoint(function() {
             setTimeout(function(){$('.more_info_anim1').addClass('animated fadeInUp')},0);
         }, { offset: '50%' });    
     
@@ -188,7 +188,7 @@ var App = { init: function() { App.HomepageHeight();
         }, { offset: '50%' });
         
         
-        $('#pricing').waypoint(function() {
+        $('#membership').waypoint(function() {
             setTimeout(function(){$('.pricing_anim1').addClass('animated fadeInUp')},0);
             setTimeout(function(){$('.pricing_anim2').addClass('animated fadeInUp')},200);
             setTimeout(function(){$('.pricing_anim3').addClass('animated fadeInUp')},400);
