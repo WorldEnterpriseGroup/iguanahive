@@ -146,7 +146,7 @@ var App = { init: function() { App.HomepageHeight();
     
     
     
-    	$('#about_video').waypoint(function() {
+    	$('#training').waypoint(function() {
             setTimeout(function(){$('.about_video_anim1').addClass('animated fadeInUp')},0);
             setTimeout(function(){$('.about_video_anim2').addClass('animated fadeInUp')},200);
             setTimeout(function(){$('.about_video_anim3').addClass('animated fadeInUp')},400);
@@ -174,7 +174,7 @@ var App = { init: function() { App.HomepageHeight();
         
         
         
-        $('#screenshots').waypoint(function() {
+        $('#showcase').waypoint(function() {
             setTimeout(function(){$('.screenshots_anim1').addClass('animated fadeInUp')},0);
             setTimeout(function(){$('.screenshots_anim2').addClass('animated fadeInUp')},200);
             setTimeout(function(){$('.screenshots_anim3').addClass('animated fadeInUp')},300);
@@ -201,7 +201,7 @@ var App = { init: function() { App.HomepageHeight();
             setTimeout(function(){$('.pricing_anim10').addClass('animated fadeInUp')},1800);
         }, { offset: '50%' });
         
-        $('#team').waypoint(function() {
+        $('#collaborate').waypoint(function() {
             setTimeout(function(){$('.team_anim1').addClass('animated fadeInUp')},0);
             setTimeout(function(){$('.team_anim2').addClass('animated fadeInLeft')},400);
             setTimeout(function(){$('.team_anim3').addClass('animated fadeInLeft')},200);
