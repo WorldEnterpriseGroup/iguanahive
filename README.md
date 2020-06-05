@@ -13,8 +13,8 @@
 ### Contribute to Our Project
 
 
-| 🔨 LifeCycle Mgt 	| 👯 Customer Journey 	| 👯 Narratives 	|
-|-	|-	|
+| 🔨 LifeCycle Mgt 	| 👯 Customer Journey 	| 📑 Narratives 	|
+|-	|-	|-	|
 | :white_check_mark: Dream 	| :white_check_mark: UX Research 	|  :white_check_mark: ReadMe 	|
 | :white_check_mark: Discovery 	| :black_square_button: UX Analysis 	| :white_check_mark: Documentation 	|
 | :black_square_button:: Development 	| :black_square_button: User Interface 	| :white_check_mark: Business Plan 	|
