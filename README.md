@@ -12,8 +12,8 @@
 
 **🔨 Life Cycle Management: Help us build Iguana Hive**
 
-- [ ] Mercury
-- [x] Venus
+- :heavy_check_mark: Mercury
+- :heavy_check_mark: Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
 - [ ] Jupiter
