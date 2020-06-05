@@ -1,16 +1,31 @@
 <a href="https://iguanahive.com"><img src="https://iguanahive.com/images/webscreen_small.jpg" title="Iguana Hive" alt="Iguana Hive"></a>
 
 
-# IGUANA Hive
+# <a href="https://iguanahive.com" target="_blank">IGUANA Hive</a>
 ### INFLUENCE & GUIDANCE USING ANALYTICS, NARRATIVES, & ANTHROPOLOGY
 
-> ideally one sentence
+> A membership driven initiative to bring together great journalists, copywriters, authors who collaborate on outstanding publications.
 
-> include terms/tags that can be searched
+> IGUANA Hive is built and maintained using swarm intelligence in collaboration with <a href="https://instarlab.org" target="_blank">INSTAR Lab Inc</a> for research &amp; analysis and is powered by the community of the <a href="https://taolearning.org" target="_blank">Tao Learning Institute</a>.
 
-**Badges will go here**
 
-- build status
+
+**🔨 Life Cycle Management: Help us build Iguana Hive**
+
+- UX Research status
+- issues (waffle.io maybe)
+- devDependencies
+- npm package
+- coverage
+- slack
+- downloads
+- gitter chat
+- license
+- etc.
+
+**👯 Customer Journey Progress**
+
+- UX Analysis
 - issues (waffle.io maybe)
 - devDependencies
 - npm package
