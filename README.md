@@ -10,13 +10,10 @@
 
 <hr>
 
-**Contribute to Our Project**
-> We welcome <a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests" target="_blank">Pull Requests</a> from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. Afterwards &amp; when available, we will provide compensation for substantial contributions to our projects. 
-
-> The below table shows our progress in various areas. We utilize business methods to build projects aligned with <strong>The Focus Hive</strong>. While we welcome ideas from all directions, participants directly involved with The Focus Hive are most helpful. Training and membership information is available <a href="https://thefocushive.com" target="_blank">here</a>.
+**Current Progress**
 
 
-| 🔨 LifeCycle Mgt 	| 👯 Customer Journey 	| 📑 Narratives 	|
+| 🔨 <a href="https://github.com/TaoFruit/iguanahive/milestone/1">LifeCycle Mgt</a> 	| 👯 Customer Journey 	| 📑 Narratives 	|
 |-	|-	|-	|
 | :white_check_mark: Dream 	| :black_square_button: UX Research 	|  :black_square_button: ReadMe 	|
 | :white_check_mark: Discovery 	| :black_square_button: UI Design 	| :black_square_button: Documentation 	|
@@ -129,8 +126,7 @@ $ bower install
 ---
 
 ## Contributing
-
-> To get started...
+> We welcome <a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests" target="_blank">Pull Requests</a> from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. Afterwards &amp; when available, we will provide compensation for substantial contributions to our projects. 
 
 ### Step 1
 
@@ -138,7 +134,7 @@ $ bower install
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/TaoFruit/iguanahive.git`
 
 ### Step 2
 
@@ -147,6 +143,8 @@ $ bower install
 ### Step 3
 
 - 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+
+> While we welcome ideas from all directions, members of <strong>The Focus Hive</strong> are most helpful as they are trained in our DevOps philosophy. Training and membership information is available <a href="https://thefocushive.com" target="_blank">here</a>.
 
 ---
 
