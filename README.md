@@ -13,14 +13,14 @@
 ### Contribute to Our Project
 
 
-| 🔨 LifeCycle Mgt 	| 👯 Customer Journey 	|
+| 🔨 LifeCycle Mgt 	| 👯 Customer Journey 	| 👯 Narratives 	|
 |-	|-	|
-| :white_check_mark: Dream 	| :white_check_mark: UX Research 	|
-| :white_check_mark: Discovery 	| :black_square_button: UX Analysis 	|
-| :white_check_mark: Development 	| :black_square_button: User Interface 	|
-| :white_check_mark: Deployment 	| :black_square_button: Brand Identity 	|
-| :white_check_mark: Development 	| :black_square_button: Call to Actions 	|
-| :white_check_mark: Development 	| :black_square_button: Copywriting 	|
+| :white_check_mark: Dream 	| :white_check_mark: UX Research 	|  :white_check_mark: ReadMe 	|
+| :white_check_mark: Discovery 	| :black_square_button: UX Analysis 	| :white_check_mark: Documentation 	|
+| :black_square_button:: Development 	| :black_square_button: User Interface 	| :white_check_mark: Business Plan 	|
+| :black_square_button: Deployment 	| :black_square_button: Brand Identity 	| :white_check_mark: Proposal 	|
+| :black_square_button: Discipline 	| :black_square_button: Call to Actions 	| :white_check_mark: Technical Documenation 	|
+| :black_square_button: Development 	| :black_square_button: Copywriting 	| :white_check_mark: Stats &amp; Results 	|
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
