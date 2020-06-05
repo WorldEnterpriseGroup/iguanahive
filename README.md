@@ -1,4 +1,4 @@
-<a href="https://iguanahive.com"><img src="https://iguanahive.com/images/webscreen.jpg" title="Iguana Hive" alt="Iguana Hive"></a>
+<a href="https://iguanahive.com"><img src="https://iguanahive.com/images/webscreen_small.jpg" title="Iguana Hive" alt="Iguana Hive"></a>
 
 
 # IGUANA Hive
