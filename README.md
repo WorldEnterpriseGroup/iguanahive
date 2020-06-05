@@ -12,27 +12,27 @@
 
 **🔨 Life Cycle Management: Help us build Iguana Hive**
 
-:white_check_mark: Mercury
-:white_check_mark: Venus
-:black_square_button: Earth (Orbit/Moon)
-:black_square_button: Mars
-:black_square_button: Jupiter
-:black_square_button: Saturn
-:black_square_button: Uranus
-:black_square_button: Neptune
-:black_square_button: Comet Haley
+:white_check_mark: Mercury <br>
+:white_check_mark: Venus <br>
+:black_square_button: Earth (Orbit/Moon) <br>
+:black_square_button: Mars <br>
+:black_square_button: Jupiter <br>
+:black_square_button: Saturn <br>
+:black_square_button: Uranus <br>
+:black_square_button: Neptune <br>
+:black_square_button: Comet Haley <br>
 
 **👯 Customer Journey Progress**
 
-:white_check_mark: Mercury
-:white_check_mark: Venus
-:black_square_button: Earth (Orbit/Moon)
-:black_square_button: Mars
-:black_square_button: Jupiter
-:black_square_button: Saturn
-:black_square_button: Uranus
-:black_square_button: Neptune
-:black_square_button: Comet Haley
+:white_check_mark: Mercury <br>
+:white_check_mark: Venus <br>
+:black_square_button: Earth (Orbit/Moon) <br>
+:black_square_button: Mars <br>
+:black_square_button: Jupiter <br>
+:black_square_button: Saturn <br>
+:black_square_button: Uranus <br>
+:black_square_button: Neptune <br>
+:black_square_button: Comet Haley <br>
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
