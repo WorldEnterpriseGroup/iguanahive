@@ -8,23 +8,28 @@
 
 > IGUANA Hive is built and maintained using swarm intelligence in collaboration with <a href="https://instarlab.org" target="_blank">INSTAR Lab Inc</a> for research &amp; analysis and is powered by the community of the <a href="https://taolearning.org" target="_blank">Tao Learning Institute</a>.
 
+<hr>
 
+**Contribute to Our Project**
+> We welcome <a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests" target="_blank">Pull Requests</a> from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. Afterwards &amp; when available, we will provide compensation for substantial contributions to our projects. 
 
-### Contribute to Our Project
+> The below table shows our progress in various areas. We utilize business methods to build projects aligned with <strong>The Focus Hive</strong>. While we welcome ideas from all directions, participants directly involved with The Focus Hive are most helpful. Training and membership information is available <a href="https://thefocushive.com" target="_blank">here</a>.
 
 
 | 🔨 LifeCycle Mgt 	| 👯 Customer Journey 	| 📑 Narratives 	|
 |-	|-	|-	|
-| :white_check_mark: Dream 	| :white_check_mark: UX Research 	|  :white_check_mark: ReadMe 	|
-| :white_check_mark: Discovery 	| :black_square_button: UX Analysis 	| :white_check_mark: Documentation 	|
-| :black_square_button:: Development 	| :black_square_button: User Interface 	| :white_check_mark: Business Plan 	|
-| :black_square_button: Deployment 	| :black_square_button: Brand Identity 	| :white_check_mark: Proposal 	|
-| :black_square_button: Discipline 	| :black_square_button: Call to Actions 	| :white_check_mark: Technical Documenation 	|
-| :black_square_button: Development 	| :black_square_button: Copywriting 	| :white_check_mark: Stats &amp; Results 	|
+| :white_check_mark: Dream 	| :black_square_button: UX Research 	|  :black_square_button: ReadMe 	|
+| :white_check_mark: Discovery 	| :black_square_button: UI Design 	| :black_square_button: Documentation 	|
+| :white_check_mark: Development 	| :black_square_button: Brand Identity 	| :black_square_button: Business Plan 	|
+| :black_square_button: Deployment 	| :black_square_button: Call to Actions 	| :black_square_button: Proposal 	|
+| :black_square_button: Discipline 	| :black_square_button: Copywriting 	| :black_square_button: Technical Documenation 	|
+| :black_square_button: Disposal 	| :black_square_button: Sales Funnel	| :black_square_button: Stats &amp; Results 	|
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
+
+## Learn Copywriting
 
 [![IGUANA Hive](http://img.youtube.com/vi/5Nw2vRY9q8k/0.jpg)](http://www.youtube.com/watch?v=5Nw2vRY9q8k "Copywriting for Beginners Workflow")
 
