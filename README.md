@@ -131,8 +131,8 @@ $ bower install
 ### Step 1
 
 - **Collaborate in Data Analysis &amp; Research**
-    - Contribute in Onenote - <a href="https://www.onenote.com/edu/classnotebook/manage/1-fd9b6c64-0e0d-476a-b392-07550f04f905" target="_blank">Click Here</a> 
-    [![FVCproductions](./project/collabonenote@2x.png)](https://www.onenote.com/edu/classnotebook/manage/1-fd9b6c64-0e0d-476a-b392-07550f04f905)   
+    - Contribute in Onenote - <a href="https://taolearning.sharepoint.com/:o:/s/DreamHive/EpqxZEO8utFNqeBWYlg0bygBahvJByeCoh3btohzp_r0Vw?e=m3FOuJ" target="_blank">Click Here</a> 
+    [![FVCproductions](./project/collabonenote.png)](https://taolearning.sharepoint.com/:o:/s/DreamHive/EpqxZEO8utFNqeBWYlg0bygBahvJByeCoh3btohzp_r0Vw?e=m3FOuJ)   
 
 - **Option 2**
     - 👯 Clone this repo to your local machine using `https://github.com/TaoFruit/iguanahive.git`
