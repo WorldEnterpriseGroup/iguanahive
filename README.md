@@ -8,41 +8,27 @@
 
 > IGUANA Hive is built and maintained using swarm intelligence in collaboration with <a href="https://instarlab.org" target="_blank">INSTAR Lab Inc</a> for research &amp; analysis and is powered by the community of the <a href="https://taolearning.org" target="_blank">Tao Learning Institute</a>.
 
+<hr>
+
+**Current Progress**
 
 
-**🔨 Life Cycle Management: Help us build Iguana Hive**
-
-- UX Research status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-
-**👯 Customer Journey Progress**
-
-- UX Analysis
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
+| 🔨 <a href="https://github.com/TaoFruit/iguanahive/milestone/1">LifeCycle Mgt</a> 	| 👯 Customer Journey 	| 📑 Narratives 	|
+|-	|-	|-	|
+| :white_check_mark: Dream 	| :black_square_button: UX Research 	|  :black_square_button: ReadMe 	|
+| :white_check_mark: Discovery 	| :black_square_button: UI Design 	| :black_square_button: Documentation 	|
+| :white_check_mark: Development 	| :black_square_button: Brand Identity 	| :black_square_button: Business Plan 	|
+| :black_square_button: Deployment 	| :black_square_button: Call to Actions 	| :black_square_button: Proposal 	|
+| :black_square_button: Discipline 	| :black_square_button: Copywriting 	| :black_square_button: Technical Documenation 	|
+| :black_square_button: Disposal 	| :black_square_button: Sales Funnel	| :black_square_button: Stats &amp; Results 	|
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
-***INSERT ANOTHER GRAPHIC HERE***
+## Learn Copywriting
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![IGUANA Hive](http://img.youtube.com/vi/5Nw2vRY9q8k/0.jpg)](http://www.youtube.com/watch?v=5Nw2vRY9q8k "Copywriting for Beginners Workflow")
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
@@ -140,8 +126,7 @@ $ bower install
 ---
 
 ## Contributing
-
-> To get started...
+> We welcome <a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests" target="_blank">Pull Requests</a> from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. Afterwards &amp; when available, we will provide compensation for substantial contributions to our projects. 
 
 ### Step 1
 
@@ -149,9 +134,8 @@ $ bower install
     - Contribute in Onenote - <a href="https://www.onenote.com/edu/classnotebook/manage/1-fd9b6c64-0e0d-476a-b392-07550f04f905" target="_blank">Click Here</a> 
     [![FVCproductions](./project/collabonenote@2x.png)](https://www.onenote.com/edu/classnotebook/manage/1-fd9b6c64-0e0d-476a-b392-07550f04f905)   
 
-
-- **Collaborate in Project Development**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/TaoFruit/iguanahive.git`
 
 ### Step 2
 
@@ -160,6 +144,8 @@ $ bower install
 ### Step 3
 
 - 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+
+> While we welcome ideas from all directions, members of <strong>The Focus Hive</strong> are most helpful as they are trained in our DevOps philosophy. Training and membership information is available <a href="https://thefocushive.com" target="_blank">here</a>.
 
 ---
 
