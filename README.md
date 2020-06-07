@@ -145,10 +145,12 @@ $ bower install
 
 ### Step 1
 
-- **Option 1**
-    - 🍴 Fork this repo!
+- **Collaborate in Data Analysis &amp; Research**
+    - Contribute in Onenote - <a href="https://www.onenote.com/edu/classnotebook/manage/1-fd9b6c64-0e0d-476a-b392-07550f04f905" target="_blank">Click Here</a> 
+    [![FVCproductions](./project/collabonenote@2x.png)](https://www.onenote.com/edu/classnotebook/manage/1-fd9b6c64-0e0d-476a-b392-07550f04f905)   
 
-- **Option 2**
+
+- **Collaborate in Project Development**
     - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
 
 ### Step 2
