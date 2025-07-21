@@ -1,4 +1,4 @@
-<a href="https://iguanahive.com"><img src="https://iguanahive.com/images/webscreen_small.jpg" title="Iguana Hive" alt="Iguana Hive"></a>
+<a href="https://iguanahive.com"><img src="https://iguanahive.com/images/webscreen_small.webp" title="Iguana Hive" alt="Iguana Hive"></a>
 
 
 # <a href="https://iguanahive.com" target="_blank">IGUANA Hive</a>
@@ -28,7 +28,7 @@
 
 ## Learn Copywriting
 
-[![IGUANA Hive](http://img.youtube.com/vi/5Nw2vRY9q8k/0.jpg)](http://www.youtube.com/watch?v=5Nw2vRY9q8k "Copywriting for Beginners Workflow")
+[![IGUANA Hive](http://img.youtube.com/vi/5Nw2vRY9q8k/0.webp)](http://www.youtube.com/watch?v=5Nw2vRY9q8k "Copywriting for Beginners Workflow")
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
