@@ -35,7 +35,7 @@ Author:         Mat Przegietka
 .aligh-left {text-align:left}
 .align-right {text-align:right}
 .float-left {float:left}
-.img_responsive {max-width: 100%}
+.img_responsive {max-width: 100%; height: auto}
 .img-circle {border-radius: 50%}
 .img-rounded_corner {border-radius: 0.2rem}
 
@@ -701,6 +701,11 @@ html {
 	padding-bottom: 7rem;
 }
 
+/* main.js sets this same value (window.innerWidth / 4) on load and resize; declaring it here keeps the page from jumping when the script runs */
+.hero_fullscreen.background_solid {
+	padding-bottom: 25vw;
+}
+
 
 /*-- Main Content --*/
 
@@ -990,7 +995,8 @@ video, object {
 }
 
 .reviews_logo img {
-	width:90%
+	width:90%;
+	height:auto
 }
 
 .review_content h4 {

@@ -130,9 +130,20 @@ function resetForm() {
 }
 
 
+// grecaptcha is loaded on first interaction (see index.html); other pages load it up front
+function recaptchaReady(callback) {
+    if (typeof window.ensureRecaptcha === 'function') {
+        window.ensureRecaptcha(function () {
+            grecaptcha.ready(callback);
+        });
+    } else {
+        grecaptcha.ready(callback);
+    }
+}
+
 // this function handles success if form is valid
 function showSuccess() {
-    grecaptcha.ready(function () {
+    recaptchaReady(function () {
         grecaptcha.execute("6LcHIYcUAAAAAPnqH0iBwnDeFma0mWAMJKJHAoEO").then(function (token) {
             document.querySelector('input[name=token]').value = token;
             let a = $('form#contactform');
